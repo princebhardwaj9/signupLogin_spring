@@ -1,0 +1,32 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background: grey;
+}
+
+h2{
+	text-align: center;
+	padding-top: 100px;
+}
+
+.buttons{
+	text-align: center;
+}
+
+a{
+	border: 1px solid black;
+	color: white;
+	background: orangered;
+	margin: 25px 10px;
+	text-align: center;
+	text-decoration: none;
+	padding: 7px 10px;
+}
+
+a:hover{
+	background: lightblue;
+	padding: 10px 10px;
+}
